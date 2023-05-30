@@ -6,13 +6,13 @@ The music and images shown in the game are not owned by the creators, proper cre
 
 All the data and materials used were gathered following the Code of Ethics. Permission to use was given by the rightful owners.
 
-Kantang Bayan: Isabuhay ang Nakaraan
-Developed: 2022-2023
+Kantang Bayan: Isabuhay ang Nakaraan  
+Developed: 2022-2023  
 Developers:
-Belangel, John Michael
-Caceres, Jusyl Anne
-Lumawag, Aira
-Poche, Ella Mae
+JM Belangel  
+Jusyl Caceres  
+Aira Lumawag   
+Ella Poche  
 
 *this repository shall only serve as reference for interested individuals!!
 *copying or altering the materials present in the repository shall be forbidden unless permission to use was granted by us creators.
