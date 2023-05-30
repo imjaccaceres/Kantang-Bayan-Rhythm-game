@@ -15,4 +15,4 @@ Aira Lumawag
 Ella Poche  
 
 *this repository shall only serve as reference for interested individuals!!
-*copying or altering the materials present in the repository shall be forbidden unless permission to use was granted by us creators.
+*copying or altering the materials present in the repository shall be forbidden unless permission to use was granted by us developers.
